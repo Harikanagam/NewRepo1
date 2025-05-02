@@ -1,0 +1,10 @@
+<html>
+<head><title>Test Report</title></head>
+<body>
+<h2>Test Results</h2>
+<table border=1>
+<tr><th>Test Case</th><th>Status</th></tr>
+<tr><td>testSearch</td><td>Passed</td></tr>
+</table>
+</body>
+</html>
